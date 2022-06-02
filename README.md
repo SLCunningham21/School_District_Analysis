@@ -1,15 +1,13 @@
 # School_District_Analysis
 
-
-   * # Pandas & Jupyter Notebook 
-
 ## Overview of the school district analysis:
-* The objective of this project was to help Maria and her supervisor prove that academic dishonesty had taken place within the 9th grade math and reading scores of Thomas High School.
+* The objective of this project was to help Maria and her supervisor prove that academic dishonesty had taken place within the 9th grade math and reading scores of Thomas High School using Pandas and Jupyter Notebook.
 
 ### Purpose
 
 * The purpose of this project was to be able to analyze the impact of academic dishonesty of test scores fo 9th grade math and reading scores altered the overall analysis of testing scores for Thomas High School.
 * This project can be applied to a real life scenario to visualize when academic dishonesty or alternations have been made to standardized testing and what the implications and impact of said alternations might be on school funding. 
+
 ## Results and Analysis:
   ### Analysis of Outcomes:
 * As evident from the percentages data frame and presented graphs, the overall standing of Thomas High School was positively affected by the alterations to the reading & math scores. The implications of this is that Thomas High School could potentionally receive more funding in the future due to the academic dishonesty positively affecting it's academic ranking amongst competing school districts.
